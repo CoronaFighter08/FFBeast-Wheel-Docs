@@ -16,7 +16,7 @@ Based on ODrive / ODESC controller boards and BLDC motors, this project's aim is
 
 ### Before You Start...
 
-Before you jump into building your own FFBeast wheel, there are a few things to keep in mind. This is a **technical DIY project**. It will involve the use of power tools, basic electrical knowledge, soldering, and the ability to troubleshoot. Depending on how you build your wheel, you may be 3D modelling and printing parts, soldering tiny components, and much more. At the very least it will require your free time. If you're looking for a plug & play solution with no fuss involved, this project is NOT for you!\
+Before jumping into building your own FFBeast wheel, there are a few things to keep in mind. This is a **technical DIY project**. It will involve the use of power tools, basic electrical knowledge, soldering, and the ability to troubleshoot. Depending on how you build your wheel, you may be 3D modelling and printing parts, soldering tiny components, and much more. At the very least it will require your free time. If you're looking for a plug & play solution with no fuss involved, this project is NOT for you!\
 \
 We also recommend you join our [Discord server](https://discord.gg/Gt6rnvrZKu) where you can chat with other wheel builders, ask for help, take inspiration from other builds and much more.\
 \
