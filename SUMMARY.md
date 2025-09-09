@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Parts + Tools Required](parts-+-tools-required/README.md)
+  * [Motor](parts-+-tools-required/motor.md)
+  * [Controller](parts-+-tools-required/controller.md)
+  * [Encoder](parts-+-tools-required/encoder.md)
+  * [Power Supply](parts-+-tools-required/power-supply.md)
+  * [Wheel Attachment](parts-+-tools-required/wheel-attachment.md)
+  * [Motor Mounting](parts-+-tools-required/motor-mounting.md)
+  * [Enclosure](parts-+-tools-required/enclosure.md)
+* [Controller Wiring](controller-wiring.md)
+* [Firmware Flashing](firmware-flashing.md)
+* [Software Setup](software-setup.md)
+* [Example Builds](example-builds.md)
+* [Troubleshooting / FAQ](troubleshooting-faq.md)
