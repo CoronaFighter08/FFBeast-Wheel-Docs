@@ -4,9 +4,9 @@ There is no one "correct" way to construct an FFBeast wheel. Builds can vary on 
 
 * [BLDC Motor](motor.md).
 * [Controller](controller.md).
-* [Encoder](encoder.md).
+* [Encoder](encoder/).
 * [Power Supply](power-supply.md).
-* [A Wheel Attachment](wheel-attachment.md).
+* [A Wheel Attachment](wheel-attachment/).
 * [An Enclosure](enclosure.md) (optional).
 * Mounting Hardware (example builds include these).
 * Screws, bolts, etc.
