@@ -20,7 +20,7 @@ layout:
 
 {% hint style="info" %}
 **Read the** [**official docs**](https://ffbeast.github.io/docs/en/hardware_motor.html) **for more info on other types of motors!**\
-This section only focuses on hoverboard motors which are the most commonly used in FFBeast builds.
+This section only focuses on hoverboard motors which are most commonly used in FFBeast builds.
 {% endhint %}
 
 Hoverboard motors are considered the **best** to use right now due to their **excellent price-to-torque ratio**. These cheap motors can be found used for as little as $10 and can provide up to 15Nm of torque. They can be bought stand-alone or as part of the entire hoverboard (which would give you two of them!).
