@@ -1,7 +1,12 @@
 ---
 description: Hoverboard motors, why they're used, and how to find the best one.
+cover: ../.gitbook/assets/motor_cover.png
+coverY: 0
 layout:
   width: default
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -23,7 +28,7 @@ layout:
 This section only focuses on hoverboard motors which are most commonly used in FFBeast builds.
 {% endhint %}
 
-Hoverboard motors are considered the **best** to use right now due to their **excellent price-to-torque ratio**. These cheap motors can be found used for as little as $10 and can provide up to 15Nm of torque. They can be bought stand-alone or as part of the entire hoverboard (which would give you two of them!).
+You aren't required to use hoverboard motors for your build, however they are considered the **best** right now due to their **excellent price-to-torque ratio,** so this document will be focusing on them. These cheap motors can be found used for as little as $10 and can provide up to 15Nm of torque. They can be bought stand-alone or as part of the entire hoverboard (which would give you two of them!).
 
 ## Hoverboard Motor Sizes
 

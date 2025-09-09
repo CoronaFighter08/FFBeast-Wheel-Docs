@@ -20,6 +20,7 @@ You can also expect to be using the following tools depending on how your wheel 
 * Soldering iron (wiring for encoder, power, wheel, etc).
 * Hand saw (cutting wood, aluminum, etc).
 * Multimeter (troubleshooting electrical issues).
+* Etc.
 
 ***
 
