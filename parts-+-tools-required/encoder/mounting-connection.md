@@ -71,13 +71,13 @@ Belt drive is commonly used by those with OMRON style encoders as it allows for 
 {% column %}
 Superseded by the belt drive and Viih mount, this method uses a bike spoke attached to the motor's front housing running through a hole in the motor shaft to the back, before connecting to the encoder. An OMRON style encoder needs a simple connector while a magnetic encoder requires a bearing to hold the magnet at the end of the shaft steady to remove wobble.
 
-Now outdated, there are no real benefits from mounting and connecting your encoder this way, and the effort required can instead be used to prepare a Viih mount or belt drive system instead.
+Now outdated, there are no real benefits from mounting and connecting your encoder this way, and the effort required can instead be used to prepare a Viih mount or belt drive system.
 {% endcolumn %}
 {% endcolumns %}
 
 | Pros                                                                                 | Cons                                                                                  |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| Clean encoder mount (no protruding belts, etc).                                      | Tendency for bike spoke to loosen and start slipping.                                 |
+| Clean encoder mount (no protruding belts, gears, etc).                               | Tendency for bike spoke to loosen and start slipping.                                 |
 | No 3D printed parts necessarily required (atleast if using the OMRON style encoder). | Spoke rubs against wires in the motor shaft and requires a cover.                     |
 |                                                                                      | Requires drilling into the hard steel shaft which can instead be used for Viih mount. |
 |                                                                                      | Requires a bearing setup to hold the spoke steady for magnetic encoders.              |
