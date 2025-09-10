@@ -35,7 +35,7 @@ A remix of Viih's encoder mount, this 3D printed mount by [tig33r](https://www.p
 
 Usually paired with OMRON style encoders, driving your encoder via gears is a method which requires no extra hardware, provided you have a 3D printer and heat resistant filament on hand. Examples of gear driven encoders are [this](https://www.printables.com/model/981504-hoverboard-ffbeast-openffboard-ffb-sim-wheel-encod) and [this](https://www.thingiverse.com/thing:6664358).
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Credits: <a href="https://www.thingiverse.com/diegomlino"><strong>diegomlino</strong></a> <strong>on Thingiverse</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p>Credits: <a href="https://www.thingiverse.com/diegomlino"><strong>diegomlino</strong></a> <strong>on Thingiverse</strong></p></figcaption></figure>
 
 | Pros                                        | Cons                                            |
 | ------------------------------------------- | ----------------------------------------------- |
@@ -49,7 +49,7 @@ Usually paired with OMRON style encoders, driving your encoder via gears is a me
 
 Belt drive is commonly used by those with OMRON style encoders as it allows for easier assembly (no difficult drilling involved) while removing the gear alignment issues of gear drive.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="387"><figcaption><p>Credits: <a href="https://cults3d.com/en/users/Olukelo/3d-models">Olukelo</a> on cults3d</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="387"><figcaption><p>Credits: <a href="https://cults3d.com/en/users/Olukelo/3d-models">Olukelo</a> on cults3d</p></figcaption></figure>
 
 | Pros                                        | Cons                                      |
 | ------------------------------------------- | ----------------------------------------- |

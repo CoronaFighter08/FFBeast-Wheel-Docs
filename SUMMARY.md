@@ -15,4 +15,6 @@
 * [Firmware Flashing](firmware-flashing.md)
 * [Software Setup](software-setup.md)
 * [Example Builds](example-builds.md)
-* [Troubleshooting / FAQ](troubleshooting-faq.md)
+* [FAQs & Tips](faqs-and-tips.md)
+* [Troubleshooting](troubleshooting-faq.md)
+* [Contributions & Credits](contributions-and-credits.md)
