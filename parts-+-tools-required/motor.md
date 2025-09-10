@@ -1,6 +1,8 @@
 ---
 description: Hoverboard motors, why they're used, and how to find the best one.
-cover: ../.gitbook/assets/motor_cover.png
+cover:
+  light: ../.gitbook/assets/motor_cover.png
+  dark: ../.gitbook/assets/motor_pagecover_dark.png
 coverY: 0
 layout:
   width: default
