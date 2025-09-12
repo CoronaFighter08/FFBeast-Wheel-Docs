@@ -1,8 +1,8 @@
 ---
 description: Hoverboard motors, why they're used, and how to find the best one.
 cover:
-  light: ../.gitbook/assets/motor_cover.png
-  dark: ../.gitbook/assets/motor_pagecover_dark.png
+  light: ../../.gitbook/assets/motor_cover.png
+  dark: ../../.gitbook/assets/motor_dark.png
 coverY: 0
 layout:
   width: default
@@ -46,21 +46,21 @@ The values above reflect real world tests at 15A current. While all these motors
 
 {% columns %}
 {% column width="50%" %}
-<figure><img src="../.gitbook/assets/5_strand_new.png" alt=""><figcaption><p>5 Strand Motor Winding</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5_strand_new.png" alt=""><figcaption><p>5 Strand Motor Winding</p></figcaption></figure>
 {% endcolumn %}
 
 {% column width="50%" %}
-<figure><img src="../.gitbook/assets/30mm stator.jpg" alt=""><figcaption><p>30mm Stator Width</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/30mm stator.jpg" alt=""><figcaption><p>30mm Stator Width</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-<figure><img src="../.gitbook/assets/30mm magnet.png" alt="" width="314"><figcaption><p>30mm Magnet Length</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/30mm magnet.png" alt="" width="314"><figcaption><p>30mm Magnet Length</p></figcaption></figure>
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-<figure><img src="../.gitbook/assets/30mm magnet 2.jpg" alt=""><figcaption><p>30mm Magnet / Stator Size</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/30mm magnet 2.jpg" alt=""><figcaption><p>30mm Magnet / Stator Size</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -78,7 +78,7 @@ Our solution is to weigh the motor and use serial numbers to guess what the moto
 | 25mm Magnet / Stator Length | \~2.6 kg (with tyre) |
 | 20mm Magnet / Stator Length | \~2.3 kg (with tyre) |
 
-<figure><img src="../.gitbook/assets/motor weighing.jpg" alt=""><figcaption><p>30mm Magnet / Stator Length Motor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/motor weighing.jpg" alt=""><figcaption><p>30mm Magnet / Stator Length Motor</p></figcaption></figure>
 
 ***
 

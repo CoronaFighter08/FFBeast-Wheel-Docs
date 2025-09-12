@@ -1,5 +1,9 @@
 ---
 description: Voltage, amperage, and different types of power supplies.
+cover:
+  light: ../.gitbook/assets/powersupply_cover_light.png
+  dark: ../.gitbook/assets/PSU_Dark.png
+coverY: 0
 ---
 
 # Power Supply

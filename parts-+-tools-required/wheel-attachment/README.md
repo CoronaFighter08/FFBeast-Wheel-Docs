@@ -1,3 +1,10 @@
+---
+cover:
+  light: ../../.gitbook/assets/wheelattachment_light.png
+  dark: ../../.gitbook/assets/wheelattachment_dark.png
+coverY: 0
+---
+
 # Wheel Attachment
 
 hub spacer + recommended sizes\

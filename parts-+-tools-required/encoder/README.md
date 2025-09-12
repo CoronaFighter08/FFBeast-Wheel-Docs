@@ -2,7 +2,7 @@
 description: PPR & CPR, supported & recommended encoder types, etc.
 cover:
   light: ../../.gitbook/assets/encoders_cover.png
-  dark: ../../.gitbook/assets/encoder_pagecover_dark.png
+  dark: ../../.gitbook/assets/encoder_dark.png
 coverY: 0
 ---
 

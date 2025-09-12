@@ -1,3 +1,10 @@
+---
+cover:
+  light: ../.gitbook/assets/enclosures_light.png
+  dark: ../.gitbook/assets/enclosures_dark.png
+coverY: 0
+---
+
 # Enclosure
 
 reference assembly enclosure\

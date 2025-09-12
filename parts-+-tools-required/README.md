@@ -2,7 +2,7 @@
 
 There is no one "correct" way to construct an FFBeast wheel. Builds can vary on the parts' availability, tools on hand, your budget, ease of assembly, and much more, so we can't give you a pre-made BOM. However the things you'll need for a common build are:
 
-* [BLDC Motor](motor.md).
+* [BLDC Motor](motor/).
 * [Controller](controller.md).
 * [Encoder](encoder/).
 * [Power Supply](power-supply.md).

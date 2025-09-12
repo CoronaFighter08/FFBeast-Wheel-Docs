@@ -1,5 +1,7 @@
 ---
 description: About the website, the FFBeast Wheel, and some important points to note.
+cover: .gitbook/assets/powersupply_cover_light.png
+coverY: 0
 ---
 
 # Introduction
