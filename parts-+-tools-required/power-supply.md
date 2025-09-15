@@ -26,7 +26,7 @@ The most common PSU types used with FFBeast wheels include enclosed "power brick
 
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -48,7 +48,7 @@ Cons:
 
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -73,7 +73,7 @@ Alternatively, you can also pair two **IDENTICAL** (in both voltage and power) p
 
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="450"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="450"><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -89,3 +89,9 @@ Cons:
 * Custom wiring involved to connect them in parallel.
 {% endcolumn %}
 {% endcolumns %}
+
+***
+
+## Which PSU Type Should I Use?
+
+As always, this depends on your budget, tools on hand, technical knowledge, etc. I would personally recommend an open-terminal style 24V 20A power supply as it gives you plenty of headroom to reach full torque output from your hoverboard motor while staying budget friendly (and is also the PSU most commonly used), as long as you have enough technical skills to wire it up to mains (be careful!).
