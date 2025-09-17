@@ -9,7 +9,7 @@ coverY: 0
 
 Credits to [Rennkraft's enclosure](https://cults3d.com/en/3d-model/game/ffbeast-slide-on-case-rennkraft) which is featured in the page banner!\
 \
-While not necessary, you'll want an enclosure unless you want your wheel base's internals and wiring out in the open for everyone to ogle at. Jokes aside, an enclosure can greatly improve the look of your build and help with carrying it around while keeping everything contained.&#x20;
+While not necessary, you'll want an enclosure unless you want your wheel base's internals and wiring out in the open for everyone to ogle at. Jokes aside, an enclosure can greatly improve the look of your build and help with keeping everything contained, keeping dust out, providing safety for and against the electronics inside, etc etc...&#x20;
 
 There are multiple enclosure designs available online, most if not all of them being 3D printed. Some keep the hoverboard motor outside of the case while others encapsulate the entire thing. Some builds don't even need a separate enclosure as they use the hoverboard case itself for mounting the motor, and the case \*becomes\* the enclosure!
 
