@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Motor Mounting
 
 SK16 setup\
