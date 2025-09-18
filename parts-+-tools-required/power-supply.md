@@ -48,7 +48,7 @@ Cons:
 
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -73,7 +73,7 @@ Alternatively, you can also pair two **IDENTICAL** (in both voltage and power) p
 
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="450"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="450"><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}

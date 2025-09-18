@@ -86,7 +86,7 @@ If the output in the encoder datasheet is marked as **NPN** - it **REQUIRES PULL
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
