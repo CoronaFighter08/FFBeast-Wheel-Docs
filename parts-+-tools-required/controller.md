@@ -46,5 +46,5 @@ The listed voltage value is simply the maximum operating voltage of the board an
 
 One important thing to keep in mind about these controllers is to be careful of potential damage from current backflow. During use of the FFBeast wheel, rotation of the wheel (and subsequently the motor) causes it to essentially become a generator, sending energy into the board. When powered, this excess current is dumped into the braking resistor, however when unpowered the backflow can potentially damage your ODrive board from excessively spinning the wheel.
 
-For those who are worried about someone in their home potentially spinning their unpowered wheel and damaging the controller, cheap relays can be installed between the motor and the controller to prevent backflow when unpowered. [The wiring and setup for this is mentioned here.](broken-reference) (Note: The controller wiring page has not been completed yet).
+For those who are worried about someone in their home potentially spinning their unpowered wheel and damaging the controller, cheap relays can be installed between the motor and the controller to prevent backflow when unpowered. [The wiring and setup for this is mentioned here.](../firmware-flashing.md#odrive-backflow-protection-relay-wiring)
 
