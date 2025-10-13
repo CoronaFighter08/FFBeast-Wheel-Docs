@@ -1,19 +1,16 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Parts + Tools Required](parts-+-tools-required/README.md)
-  * [Motor](parts-+-tools-required/motor/README.md)
-    * [Motor Mounting](parts-+-tools-required/motor/motor-mounting.md)
-  * [Controller](parts-+-tools-required/controller.md)
-  * [Encoder](parts-+-tools-required/encoder/README.md)
-    * [Mounting / Connection](parts-+-tools-required/encoder/mounting-connection.md)
-  * [Power Supply](parts-+-tools-required/power-supply.md)
-  * [Wheel Attachment](parts-+-tools-required/wheel-attachment/README.md)
-    * [Wheel Connection](parts-+-tools-required/wheel-attachment/wheel-connection.md)
-  * [Enclosure](parts-+-tools-required/enclosure.md)
-* [Wiring / Flashing Controller](firmware-flashing.md)
-* [Software Setup](software-setup.md)
-* [Example Builds](example-builds.md)
-* [FAQs & Tips](faqs-and-tips.md)
-* [Troubleshooting](troubleshooting-faq.md)
-* [Contributions & Credits](contributions-and-credits.md)
+* [Welcome](README.md)
+
+## Getting Started
+
+* [Quickstart](getting-started/quickstart.md)
+* [Publish your docs](getting-started/publish-your-docs.md)
+
+## Basics
+
+* [Editor](basics/editor.md)
+* [Markdown](basics/markdown.md)
+* [Images & media](basics/images-and-media.md)
+* [Interactive blocks](basics/interactive-blocks.md)
+* [Integrations](basics/integrations.md)
