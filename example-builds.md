@@ -22,6 +22,8 @@ Also showcased in this Reddit post: [https://www.reddit.com/r/simracing/s/CJAzI2
 {% endcolumn %}
 {% endcolumns %}
 
+***
+
 {% columns %}
 {% column %}
 <figure><img src=".gitbook/assets/image (3).png" alt="" width="188"><figcaption></figcaption></figure>
@@ -38,6 +40,8 @@ Case is available at [https://cults3d.com/en/3d-model/game/ffbeast-slide-on-case
 {% endcolumn %}
 {% endcolumns %}
 
+***
+
 {% columns %}
 {% column %}
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
@@ -49,6 +53,8 @@ Case is available at [https://cults3d.com/en/3d-model/game/ffbeast-slide-on-case
 Steering away (pun intended) from the example build, this one uses part of the hoverboard itself as the case and mount, along with a belt driven optical encoder, custom quick release with USB passthrough via a slipring, and the motor face being grinded down to give a really clean look!
 {% endcolumn %}
 {% endcolumns %}
+
+***
 
 {% columns %}
 {% column %}
@@ -62,6 +68,8 @@ Featuring an extremely unique mounting method, this mostly 3D printed build uses
 {% endcolumn %}
 {% endcolumns %}
 
+***
+
 {% columns %}
 {% column %}
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
@@ -73,6 +81,8 @@ Featuring an extremely unique mounting method, this mostly 3D printed build uses
 Another build using the original hoverboard base as the mount and (part of) the case to give it a really clean look. Includes a 3D printed base to add a 25 degree angle, a hoverboard motor with its face turned down in a lathe, belt driven optical encoder, small fan for cooling, and more.
 {% endcolumn %}
 {% endcolumns %}
+
+***
 
 {% columns %}
 {% column %}
@@ -87,6 +97,8 @@ A unique build including many custom metal parts. It includes a case made out of
 Check out the Youtube video! [https://youtu.be/X-Dd3wjQ4uM?si=cpbJBrQacs1shzuM](https://youtu.be/X-Dd3wjQ4uM?si=cpbJBrQacs1shzuM)
 {% endcolumn %}
 {% endcolumns %}
+
+***
 
 
 
