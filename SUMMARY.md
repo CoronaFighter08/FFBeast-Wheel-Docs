@@ -14,6 +14,6 @@
 * [Wiring / Flashing Controller](firmware-flashing.md)
 * [Software Setup](software-setup.md)
 * [Example Builds](example-builds.md)
-* [FAQs & Tips](faqs-and-tips.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
 * [Troubleshooting](troubleshooting-faq.md)
 * [Contributions & Credits](contributions-and-credits.md)
