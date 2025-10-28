@@ -76,7 +76,7 @@ Featuring an extremely unique mounting method, this mostly 3D printed build uses
 {% endcolumn %}
 
 {% column %}
-[**DrowsySam's Build**](https://app.gitbook.com/u/cPZIxqyrGtSv7lb4Nej9u3XgPtD3)
+[**DrowsySam's Build**](https://discord.com/channels/1043156600468287539/1425072226289451008)
 
 Another build using the original hoverboard base as the mount and (part of) the case to give it a really clean look. Includes a 3D printed base to add a 25 degree angle, a hoverboard motor with its face turned down in a lathe, belt driven optical encoder, small fan for cooling, and more.
 {% endcolumn %}
