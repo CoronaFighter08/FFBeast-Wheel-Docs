@@ -80,7 +80,7 @@ I would highly recommend you use paper, tape or literally anything to prevent me
 {% step %}
 ### Mount The Wheel / Spacer / Quick Release
 
-This one is pretty self explanatory. Hold the thing you want to mount on the front of the wheel and screw your bolts in from the inside. Use either countersunk or button head bolts as those with large enough heads could potentially grind against and damage the copper windings. I personally haven't seen that happen to anyone in the community discord but you never know!
+This one is pretty self explanatory. Hold the thing you want to mount on the front of the motor and screw your bolts in from the inside. Use either countersunk or button head bolts as those with large enough heads could potentially grind against and damage the copper windings. I personally haven't seen that happen to anyone in the community discord but you never know!
 {% endstep %}
 
 {% step %}
@@ -94,7 +94,7 @@ The back plate can be slid back on and screwed in as normal.
 {% step %}
 ### Test Your Encoder
 
-Get your ODrive board. Connect it the USB to your computer and give it external power (the boards shown in [controller.md](parts-+-tools-required/controller.md "mention") can't be powered off the USB connection alone). Flash the FFBeast firmware onto the board. [firmware-flashing.md](firmware-flashing.md "mention"). Unpower the board and connect your encoder, making sure you do NOT wire up the motor. Power the board back up and apply the correct settings for your encoder through the wheel setup app. Make sure you have forces disabled.
+Get your ODrive board. Connect it via USB to your computer and give it external power (the boards shown in [controller.md](parts-+-tools-required/controller.md "mention") can't be powered off the USB connection alone). Flash the FFBeast firmware onto the board. [firmware-flashing.md](firmware-flashing.md "mention"). Unpower the board and connect your encoder, making sure you do NOT wire up the motor. Power the board back up and apply the correct settings for your encoder through the wheel setup app. Forces should be disabled.
 
 Open any app or game which can display your wheel position. Hold the motor in your hand and give it a spin. If everything is working fine, you can continue with mounting everything!
 {% endstep %}

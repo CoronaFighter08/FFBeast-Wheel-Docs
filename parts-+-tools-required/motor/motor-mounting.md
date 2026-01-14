@@ -1,10 +1,8 @@
-# Motor Mounting
+---
+description: Various methods to mount your motor!
+---
 
-SK16 setup\
-aluminium profile mounting\
-3d printed mounting (has anyone even succeeded with this)\
-direct hoverboard case mounting\
-i cant think of anything else rn
+# Motor Mounting
 
 ## SK16 Mounting
 
@@ -24,7 +22,7 @@ Credits go to Tobier from the FFBeast Discord for the photo on the right!
 
 
 
-One thing you need to be careful of when using SK16s  is that they have to be tightened down really hard to prevent the motor shaft from slipping which can cause issues with force feedback later on.
+One thing you need to be careful of when using SK16s is that they have to be tightened down really hard to prevent the motor shaft from slipping which can cause issues with force feedback later on.
 
 ***
 
@@ -40,4 +38,4 @@ An easier alternative is to just use the original hoverboard shell itself as a m
 
 Yes, you _can_ completely 3D print the motor mount... IF you take precautions. Use high temp filament like PETG or ABS. Increase the number of perimeters and infill for added strength. Ensure that there's a way for the mount to make use of the motor shaft's flat section or else it WILL slip. I personally wouldn't recommend running up to 15 Nm of torque through a 3D printed mount unless you know what you're doing while designing it.&#x20;
 
-A bad example of a 3D printed mount is Daz Project's fully 3D printed build posted on Youtube which is known to have many issues including the mount melting, slipping, etc.
+A bad example of a 3D printed mount is Daz Project's fully 3D printed build posted on Youtube which is known to have many issues including the mount melting, slipping, etc. The files cost 15 euros (and 20 euros for an updated version!!) which you could use to fund proper wheel and motor mounting solutions.. so the critisism is deserved. I wouldn't follow his guide.
