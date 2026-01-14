@@ -10,7 +10,7 @@ All the builds below are publicly available on the FFBeast Discord server. You'r
 
 {% columns %}
 {% column %}
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -26,7 +26,7 @@ Also showcased in this Reddit post: [https://www.reddit.com/r/simracing/s/CJAzI2
 
 {% columns %}
 {% column %}
-<figure><img src=".gitbook/assets/image (3).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -44,7 +44,7 @@ Case is available at [https://cults3d.com/en/3d-model/game/ffbeast-slide-on-case
 
 {% columns %}
 {% column %}
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -58,7 +58,7 @@ Steering away (pun intended) from the example build, this one uses part of the h
 
 {% columns %}
 {% column %}
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -72,7 +72,7 @@ Featuring an extremely unique mounting method, this mostly 3D printed build uses
 
 {% columns %}
 {% column %}
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -86,7 +86,7 @@ Another build using the original hoverboard base as the mount and (part of) the 
 
 {% columns %}
 {% column %}
-<figure><img src=".gitbook/assets/image (8).png" alt="" width="118"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1).png" alt="" width="118"><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}

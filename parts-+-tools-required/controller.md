@@ -40,11 +40,15 @@ You are, of course, free to use other ODrive 3.6 controller boards. Make sure to
 
 ## Should I go for the 24V or 56V version?
 
-The listed voltage value is simply the maximum operating voltage of the board and it won't matter if you drive your motor at 24V using a 56V board. The decision is up to you!
+The listed voltage value is simply the maximum operating voltage of the board and it won't matter if you drive your motor at 24V using a 56V board. However, since it's recommended to use a 24V power supply, going higher will simply add to the cost of your project. The final decision is up to you as to whether you want flexibility to increase voltage.
 
 ## Protecting Your Controller
 
 One important thing to keep in mind about these controllers is to be careful of potential damage from current backflow. During use of the FFBeast wheel, rotation of the wheel (and subsequently the motor) causes it to essentially become a generator, sending energy into the board. When powered, this excess current is dumped into the braking resistor, however when unpowered the backflow can potentially damage your ODrive board from excessively spinning the wheel.
 
 For those who are worried about someone in their home potentially spinning their unpowered wheel and damaging the controller, cheap relays can be installed between the motor and the controller to prevent backflow when unpowered. [The wiring and setup for this is mentioned here.](../firmware-flashing.md#odrive-backflow-protection-relay-wiring)
+
+Users have also had issues with the USB-C port of their board snapping off. I recommend you either use an extension to relieve potential stress off the port or install a 3D printed brace, something like [this one](https://www.printables.com/model/1435932-odrive-mini-usb-c-port-guard-reinforcement-bracket/comments).
+
+
 

@@ -4,8 +4,7 @@ description: Detailed troubleshooting for common issues.
 
 # Troubleshooting
 
-If your issue is related to the wheel not behaving properly, whether it be losing center, endstops not working properly, the wheel spinning erratically, **make sure to check these issues first:**\
-
+If your issue is related to the wheel not behaving properly, whether it be losing center, endstops not working properly, the wheel spinning erratically, **make sure to check these issues first:**<br>
 
 1. Make sure your motor isn't slipping in its mount. Use a marker to create a mark on the shaft and make sure it doesn't move AT ALL.
 2. Check for encoder slip. If using a magnetic encoder, make sure the magnet is centered correctly above it and can't wobble around. If using gear or belt drive, ensure they're not skipping, slipping or facing backlash. Your belt should be tight.

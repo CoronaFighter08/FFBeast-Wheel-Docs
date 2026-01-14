@@ -13,6 +13,7 @@
   * [Enclosure](parts-+-tools-required/enclosure.md)
 * [Wiring / Flashing Controller](firmware-flashing.md)
 * [Software Setup](software-setup.md)
+* [Assembling Your Build](assembling-your-build.md)
 * [Example Builds](example-builds.md)
 * [Frequently Asked Questions](faqs-and-tips.md)
 * [Troubleshooting](troubleshooting-faq.md)
