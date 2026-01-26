@@ -4,7 +4,9 @@ description: This is it! This is what we've been waiting for!
 
 # Assembling Your Build
 
-Once you've read through the [official docs](https://ffbeast.github.io/docs/en/wheel.html) and have decided which parts & design you intend to go with based on the [subpages](parts-+-tools-required/) linked above, it's time to assemble the build!
+Once you've read through the [official docs](https://ffbeast.github.io/docs/en/wheel.html) and have decided which parts & design you intend to go with based on the [subpages](parts-+-tools-required/) linked above, it's time to assemble the build!\
+\
+All images / videos shown below are taken by me unless stated otherwise :)
 
 {% stepper %}
 {% step %}
