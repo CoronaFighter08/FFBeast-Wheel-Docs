@@ -37,11 +37,11 @@ Usually paired with OMRON style encoders, driving your encoder via gears is a me
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Credits: <a href="https://www.thingiverse.com/diegomlino"><strong>diegomlino</strong></a> <strong>on Thingiverse</strong></p></figcaption></figure>
 
-| Pros                                        | Cons                                            |
-| ------------------------------------------- | ----------------------------------------------- |
-| No drilling required, easy to assemble.     | Increased mechanical wear and tear.             |
-| No extra hardware if you have a 3D printer. | Potential for gear skipping and backlash.       |
-| Gearing allows for CPR increase.            | Difficulty in aligning gears to mesh correctly. |
+| Pros                                        | Cons                                      |
+| ------------------------------------------- | ----------------------------------------- |
+| No drilling required.                       | Potential for gear skipping and backlash. |
+| No extra hardware if you have a 3D printer. | Gears need to mesh / be aligned properly. |
+| Gearing allows for CPR increase.            |                                           |
 
 ***
 
@@ -51,15 +51,15 @@ Belt drive is commonly used by those with OMRON style encoders as it allows for 
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="387"><figcaption><p>Credits: <a href="https://cults3d.com/en/users/Olukelo/3d-models">Olukelo</a> on cults3d</p></figcaption></figure>
 
-| Pros                                        | Cons                                      |
-| ------------------------------------------- | ----------------------------------------- |
-| No drilling required, easy to assemble.     | Slight mechanical wear overtime.          |
-| No extra hardware if you have a 3D printer. | Potential for skipping if belt is loose.  |
-| Gearing allows for CPR increase.            | No "one size fits all" mounting solution. |
+| Pros                                        | Cons                           |
+| ------------------------------------------- | ------------------------------ |
+| No drilling required.                       | Belt can slip / skip if loose. |
+| No extra hardware if you have a 3D printer. |                                |
+| Gearing allows for CPR increase.            |                                |
 
 ***
 
-## Bike Spoke Method (OUTDATED)&#x20;
+## Bike Spoke Method
 
 {% columns %}
 {% column %}
@@ -75,15 +75,15 @@ Now outdated, there are no real benefits from mounting and connecting your encod
 {% endcolumn %}
 {% endcolumns %}
 
-| Pros                                                                                 | Cons                                                                                  |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| Clean encoder mount (no protruding belts, gears, etc).                               | Tendency for bike spoke to loosen and start slipping.                                 |
-| No 3D printed parts necessarily required (atleast if using the OMRON style encoder). | Spoke rubs against wires in the motor shaft and requires a cover.                     |
-|                                                                                      | Requires drilling into the hard steel shaft which can instead be used for Viih mount. |
-|                                                                                      | Requires a bearing setup to hold the spoke steady for magnetic encoders.              |
+| Pros                                                                                 | Cons                                                                                           |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| Clean encoder mount (no protruding belts, gears, etc).                               | Tendency for bike spoke to loosen and start slipping.                                          |
+| No 3D printed parts necessarily required (atleast if using the OMRON style encoder). | Spoke rubs against wires in the motor shaft and requires a cover.                              |
+|                                                                                      | Requires drilling into the hard steel shaft which can instead be used for Viih / tig33r mount. |
+|                                                                                      | Requires a bearing setup to hold the spoke steady for magnetic encoders.                       |
 
 ***
 
 ## Which Mounting Method Is Best For Me?
 
-This depends on your budget, encoder type, tools on hand, etc. For general users, the Viih mount is recommended. For those willing to spend a little more on an OMRON style encoder and not wanting to drill into the hard steel motor shaft, the belt driven encoder is the next best solution!
+This depends on your budget, encoder type, tools on hand, etc. For general users, the Viih or tig33r mount is recommended. For those willing to spend a little more on an OMRON style encoder and not wanting to drill into the hard steel motor shaft, the belt or gear driven encoder is the next best solution!

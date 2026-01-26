@@ -6,7 +6,7 @@ Controller wiring and flashing is best left to the main docs, as it explains eve
 
 {% embed url="https://ffbeast.github.io/docs/en/software_firmware_flashing.html" %}
 
-**REMEMBER TO NEVER TRUST WIRE COLOR CODING!** Always match connections by pinout and names, never trust wire colors from images or videos as they can be different depending on what you have.
+_<mark style="color:$danger;">**REMEMBER TO NEVER TRUST WIRE COLOR CODING!**</mark>_ <mark style="color:$danger;"></mark><mark style="color:$danger;">Always match connections by pinout and names, never trust wire colors from images or videos as they can be different depending on what you have.</mark>
 
 ***
 
@@ -20,6 +20,8 @@ Developed by EulerOliveira from the FFBeast community server, the ODrive DFU app
 
 ## ODrive Backflow Protection (Relay Wiring)
 
+<mark style="color:$warning;">(UPDATE: Some members have stated that the relay method can cause more harm than actual good. I don't have the relays installed so I can't speak as to how it is with or without them. I recommend you read the discussion thread in the Discord before deciding whether to go ahead with it!)</mark>\
+\
 Another helpful piece of information shared by EulerOliveira. As the ODrive controller is susceptible to damage due to power backflow from spinning the wheel (and hence the motor) excessively while the whole thing is powered down, cheap relays can be wired up between the motor and the controller to cut off the connection when there is no power.
 
 {% columns %}
