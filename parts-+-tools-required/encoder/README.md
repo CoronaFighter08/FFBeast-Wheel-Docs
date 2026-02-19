@@ -90,7 +90,7 @@ If the output in the encoder datasheet is marked as **NPN** - it **REQUIRES PULL
 {% endcolumn %}
 
 {% column %}
-The most economical solution, involving a PCB with a small chip which must have a magnet precisely positioned for optimum rotation measurement. This would typically require custom mounting solutions, proper mounts have been created by members of the FFBeast community. Some recommended magnetic encoders are:
+The most economical solution, involving a PCB with a small chip which must have a magnet precisely positioned for optimum rotation measurement. This would typically require custom mounting solutions, however proper mounts have been created by members of the FFBeast community. Some recommended magnetic encoders are:
 
 * MT6701 (4096 CPR)
 * MT6825 (16384 CPR)
@@ -102,7 +102,7 @@ The most economical solution, involving a PCB with a small chip which must have 
 
 ## Which Encoder Should I Use?
 
-It depends on your budget, tools on hand, CPR requirement, ease of mounting, and much more! Generally the magnetic encoder with an appropriate mounting solution is recommended due to it being budget friendly and quite reliable. OMRON style encoders are better suited for encoders mounted via gears or belts. More information regarding mounting solutions can be found here!
+It depends on your budget, tools on hand, CPR requirement, ease of mounting, and much more! Generally the magnetic encoder with an appropriate mounting solution is recommended due to it being budget friendly and quite reliable. OMRON style encoders are better suited for encoders mounted via gears or belts. [More information regarding mounting solutions can be found here!](mounting-connection.md)
 
 ***
 

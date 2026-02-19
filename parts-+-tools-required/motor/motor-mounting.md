@@ -22,13 +22,13 @@ Credits go to Tobier from the FFBeast Discord for the photo on the right!
 
 
 
-One thing you need to be careful of when using SK16s is that they have to be tightened down really hard to prevent the motor shaft from slipping which can cause issues with force feedback later on.
+<mark style="color:$primary;">One thing you need to be careful of when using SK16s is that they have to be tightened down really hard to prevent the motor shaft from slipping which can cause issues with force feedback later on</mark><mark style="color:$primary;">.</mark>
 
 ***
 
 ## Original Hoverboard Mount
 
-An easier alternative is to just use the original hoverboard shell itself as a mount. It has a block which screws down with 4 bolts and clamps onto the flat side of the motor shaft so there is zero risk of the shaft slipping. Drilling into the hoverboard base will be required to mount it.
+An easier alternative is to just use the original hoverboard shell itself as a mount. It has a block which screws down with 4 bolts and clamps onto the flat side of the motor shaft so there is zero risk of the shaft slipping. Most people mount these by either clamping it directly to their desk or drilling holes into the shell to provide mounting points.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>leo22_'s build posted in the FFBeast Discord. Uses four SK16 blocks underneath to allow for easy angle adjustment!</p></figcaption></figure>
 

@@ -75,12 +75,7 @@ Now outdated, there are no real benefits from mounting and connecting your encod
 {% endcolumn %}
 {% endcolumns %}
 
-| Pros                                                                                 | Cons                                                                                           |
-| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| Clean encoder mount (no protruding belts, gears, etc).                               | Tendency for bike spoke to loosen and start slipping.                                          |
-| No 3D printed parts necessarily required (atleast if using the OMRON style encoder). | Spoke rubs against wires in the motor shaft and requires a cover.                              |
-|                                                                                      | Requires drilling into the hard steel shaft which can instead be used for Viih / tig33r mount. |
-|                                                                                      | Requires a bearing setup to hold the spoke steady for magnetic encoders.                       |
+<table><thead><tr><th width="369">Pros</th><th>Cons</th></tr></thead><tbody><tr><td>Clean encoder mount (no protruding belts, gears, etc).</td><td>Bike spoke can loosen and start slipping.</td></tr><tr><td>No 3D printed parts necessarily required (atleast if using the OMRON style encoder).</td><td>Spoke rubs against wires in the motor shaft and requires a cover.</td></tr><tr><td></td><td>Requires drilling into the hard steel shaft which can instead be used for Viih / tig33r mount.</td></tr><tr><td></td><td>Requires a bearing setup to hold the spoke steady for magnetic encoders.</td></tr></tbody></table>
 
 ***
 

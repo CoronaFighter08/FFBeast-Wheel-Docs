@@ -17,4 +17,3 @@
 * [Example Builds](example-builds.md)
 * [Frequently Asked Questions](faqs-and-tips.md)
 * [Troubleshooting](troubleshooting-faq.md)
-* [Contributions & Credits](contributions-and-credits.md)

@@ -4,30 +4,13 @@ cover:
   light: ../../.gitbook/assets/motor_cover.png
   dark: ../../.gitbook/assets/motor_dark.png
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Motor
 
 {% hint style="info" %}
 **Read the** [**official docs**](https://ffbeast.github.io/docs/en/hardware_motor.html) **for more info on other types of motors!**\
-This section only focuses on hoverboard motors which are most commonly used in FFBeast builds.
+This section only focuses on hoverboard motors which are most commonly used in FFBeast wheel builds.
 {% endhint %}
 
 You aren't required to use hoverboard motors for your build, however they are considered the **best** right now due to their **excellent price-to-torque ratio,** so this document will be focusing on them. These cheap motors can be found used for as little as $10 and can provide up to 15Nm of torque. They can be bought stand-alone or as part of the entire hoverboard (which would give you two of them!).
@@ -68,7 +51,7 @@ The values above reflect real world tests at 15A current. While all these motors
 
 ## How To Get The Best Motor
 
-From the data provided above, while all these motors will work for your build, the best one to get is a 30mm, 5 strand one. Unfortunately, there is no absolute & reliable way to determine the internal components of a motor without disassembling it. Two motors could look the exact same from the size and front pattern from the outside but have completely different internal component sizes.
+From the data provided above, while all these motors will work for your build, the best one to get is a 30mm, 5 strand one. Unfortunately, there is no absolute & reliable way to determine the internal components of a motor without disassembling it. Two motors could look the _exact same_ from the outside but have completely different internal component sizes.
 
 Our solution is to weigh the motor and use serial numbers to guess what the motor internals will be! Since more powerful motors have more metal inside, they will also weigh more.
 
@@ -99,4 +82,4 @@ WARNING: The following method is not as reliable as the weight guessing method f
 
 ## Will Plastic Housing Motors Work?
 
-While hoverboard motors with a plastic housing would work, they are generally not recommended as they are not as mechanically strong and don't conduct heat away as effectively as metal from the motor during use, which could potentially damage it. If you have the option, don't use them.
+While hoverboard motors with a plastic housing _would_ work, I highly recommend you don't. They're more fragile, come with small magnets inside and aren't good at conducting and dissipating heat away from the inside of the motor which can lead to damage. Just look for a metal one or you might end up regretting it later.

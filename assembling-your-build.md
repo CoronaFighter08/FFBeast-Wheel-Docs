@@ -10,7 +10,9 @@ All images / videos shown below are taken by me unless stated otherwise :)
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-There are six phillips head countersunk screws holding the back plate of the motor on. They are prone to stripping so be extremely careful when unscrewing them. Mine were stuck, so I used a large bolt I had laying around, placed it on top of the screws and gave it a few hard whacks with a hammer which loosened them right up. The backplate should slide right off with a bit of force.
+There are six phillips head countersunk screws holding the back plate of the motor on. They are prone to stripping so be extremely careful when unscrewing them.&#x20;
+
+Mine were stuck, so I used a large bolt I had laying around, placed it on top of the screws and gave it a few hard whacks with a hammer which loosened them right up. The backplate should slide right off with a bit of force.
 {% endstep %}
 
 {% step %}
@@ -54,7 +56,7 @@ If you intend to drill a hole through the motor shaft to pass a magnetic encoder
 {% step %}
 ### Drilling The Shaft
 
-If you plan to drill a hole through the motor shaft, make sure you've removed the wires first. Whichever method you choose to drill it, whether it be a hand drill, a drill press, or even a lathe, I recommend you place something like a piece of paper with a hole cut out on top with the shaft poking through to prevent metal shavings from dropping into and getting stuck in the motor windings.
+If you plan to drill a hole through the motor shaft, **make sure you've removed the wires first** (I promise you'll regret it otherwise). Whichever method you choose to drill it, whether it be a hand drill, a drill press, or even a lathe, I recommend you place something like a piece of paper with a hole cut out on top with the shaft poking through to prevent metal shavings from dropping into and getting stuck in the motor windings.
 
 The shaft is made from hardened steel, so just look up how to drill through that stuff since I'm not qualified to tell you this (I didn't drill through mine) 😝
 {% endstep %}
@@ -62,7 +64,7 @@ The shaft is made from hardened steel, so just look up how to drill through that
 {% step %}
 ### Drilling The Mounting Holes
 
-The holes for mounting your wheel, spacer or quick release are usually drilled through the inside of the motor as depending on your wheel's front design, it might not allow a flat surface while the inside does.
+The holes for mounting your wheel, spacer or quick release are usually drilled through the inside of the motor since depending on your wheel's front design, it might not allow a flat surface while the inside does.
 
 If you plan to go with the common 70mm M5 bolt pattern, I recommend printing this out:
 
@@ -72,7 +74,7 @@ It can be inserted in the front bearing to align the mount and you can then dril
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-I would highly recommend you use paper, tape or literally anything to prevent metal shavings from sticking to the magnets as it could cause issues once you reassemble the motor. I made a paper "bowl" with a hole in the middle which caught the metal shavings as I drilled and could be easily removed later and disposed of.
+I recommend using paper, tape or literally anything to prevent metal shavings from sticking to the magnets as it could cause issues once you reassemble the motor. I made a paper "bowl" with a hole in the middle which caught the metal shavings as I drilled and could be easily removed later and disposed of.
 {% endstep %}
 
 {% step %}
