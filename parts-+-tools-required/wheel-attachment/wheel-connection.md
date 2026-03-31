@@ -58,4 +58,4 @@ While not being recommended due to potential connection issues and other hassles
 
 Each method has its pros and cons. Wired using coiled cables is the easiest, however some don't prefer the rotation limit from the wire and are distracted by it. Slip rings are used by most commercially available wheelbases, however cheap ones can go bad quickly and it requires drilling into your hoverboard motor shaft to route the wires through it (not to mention the fact that you'll need a 3D printed mount to hold the slipring). Wireless is the cleanest way, however some users face connection issues, not to mention the hassle of managing your battery to ensure your wheel doesn't die in the middle of a race.
 
-I'd personally recommend going wired, but in the end it's your build after all. It's entirely up to you!
+I'd personally recommend going wired, but in the end it's your build. It's entirely up to you!

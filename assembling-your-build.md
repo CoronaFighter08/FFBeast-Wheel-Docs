@@ -75,6 +75,10 @@ It can be inserted in the front bearing to align the mount and you can then dril
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 I recommend using paper, tape or literally anything to prevent metal shavings from sticking to the magnets as it could cause issues once you reassemble the motor. I made a paper "bowl" with a hole in the middle which caught the metal shavings as I drilled and could be easily removed later and disposed of.
+
+{% hint style="info" %}
+This is also the time to remove the bearing and drill the center hole for the magnetic encoder if your mount uses that. However the steps for those will not be discussed here.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -94,15 +98,19 @@ The back plate can be slid back on and screwed in as normal.
 {% step %}
 ### Test Your Encoder
 
-Get your ODrive board. Connect it via USB to your computer and give it external power (the boards shown in [controller.md](parts-+-tools-required/controller.md "mention") can't be powered off the USB connection alone). Flash the FFBeast firmware onto the board. [firmware-flashing.md](firmware-flashing.md "mention"). Unpower the board and connect your encoder, making sure you do NOT wire up the motor. Power the board back up and apply the correct settings for your encoder through the wheel setup app. Forces should be disabled.
+Get your ODrive board. Connect it via USB to your computer and give it external power (the board can't be powered off the USB connection alone). Flash the FFBeast firmware onto the board. Unpower the board and connect your encoder, making sure you do NOT wire up the motor. Power the board back up and apply the [correct settings for your encoder and motor](software-setup.md) through the wheel setup app. Forces should be disabled.
 
-Open any app or game which can display your wheel position. Hold the motor in your hand and give it a spin. If everything is working fine, you can continue with mounting everything!
+Open any app or game which can display your wheel position and give it a spin. If everything is working fine, you can continue with mounting everything!
 {% endstep %}
 
 {% step %}
 ### Mounting Your Motor
 
-Depending on the motor mount you decided to use (examples given in [motor-mounting.md](parts-+-tools-required/motor/motor-mounting.md "mention")), it may require some assembly beforehand. Once that's done, mount your motor and ensure the shaft can't slip in the mount. You can now connect the motor to the controller and test everything at low power to make sure the force feedback is working as expected, as your electronics are easy to access at this point.
+Depending on the motor mount you decided to use (examples given in [motor-mounting.md](parts-+-tools-required/motor/motor-mounting.md "mention")), it may require some assembly beforehand. Once that's done, mount your motor and ensure the shaft can't slip in the mount. You can now connect the motor to the controller and test everything at **low power** to make sure the force feedback is working as expected, as your electronics are easy to access at this point. Troubleshoot and fix any issues which show up.
+
+{% hint style="danger" %}
+Make sure your motor is properly secured to your rig or desk before turning the system on. Also keep your power limit low (around 10-15% is more than enough) during initial tests as inverted forces or wrong encoder setup can cause your wheel to suddenly start spinning non-stop.
+{% endhint %}
 {% endstep %}
 
 {% step %}
