@@ -4,6 +4,28 @@ cover:
   light: ../../.gitbook/assets/motor_cover.png
   dark: ../../.gitbook/assets/motor_dark.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Motor

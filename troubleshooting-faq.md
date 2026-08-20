@@ -12,5 +12,5 @@ If your issue is related to the wheel not behaving properly, whether it be losin
 
 
 
-Rest of this page is in progress.
+ghewrghoierhgoierhgo to be completed
 

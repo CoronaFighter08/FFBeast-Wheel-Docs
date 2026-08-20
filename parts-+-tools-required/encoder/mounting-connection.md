@@ -10,11 +10,10 @@ Made for the MT6701 18x15mm magnetic encoder, this 3D printed mount by [Viih](ht
 
 {% embed url="https://youtu.be/rZpp99V58DY?si=DXhbk_hLk9J9Ninh" %}
 
-| Pros                                              | Cons                                                 |
-| ------------------------------------------------- | ---------------------------------------------------- |
-| Budget friendly.                                  | Difficulty in drilling hole in hard steel shaft.     |
-| No contact, meaning no wear. Will last "forever". | Hole needs to be centered, some people mess this up. |
-| Precise encoder mounting.                         |                                                      |
+| Pros                                              | Cons                                             |
+| ------------------------------------------------- | ------------------------------------------------ |
+| Budget friendly.                                  | Difficulty in drilling hole in hard steel shaft. |
+| No contact, meaning no wear. Will last "forever". |                                                  |
 
 ***
 
@@ -28,6 +27,7 @@ A remix of Viih's encoder mount, this 3D printed mount by [tig33r](https://www.p
 | ------------------------------------------------- | ------------------------------------------------ |
 | Budget friendly.                                  | Difficulty in drilling hole in hard steel shaft. |
 | No contact, meaning no wear. Will last "forever". |                                                  |
+| Some leeway in hole centering, as far as I know.  |                                                  |
 
 ***
 
@@ -37,11 +37,10 @@ Usually paired with OMRON style encoders, driving your encoder via gears is a me
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Credits: <a href="https://www.thingiverse.com/diegomlino"><strong>diegomlino</strong></a> <strong>on Thingiverse</strong></p></figcaption></figure>
 
-| Pros                                        | Cons                                      |
-| ------------------------------------------- | ----------------------------------------- |
-| No drilling required.                       | Potential for gear skipping and backlash. |
-| No extra hardware if you have a 3D printer. | Gears need to mesh / be aligned properly. |
-| Gearing allows for CPR increase.            |                                           |
+| Pros                             | Cons                                      |
+| -------------------------------- | ----------------------------------------- |
+| No drilling required.            | Potential for gear skipping and backlash. |
+| Gearing allows for CPR increase. | Gears need to mesh / be aligned properly. |
 
 ***
 
@@ -51,11 +50,10 @@ Belt drive is commonly used by those with OMRON style encoders as it allows for 
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="387"><figcaption><p>Credits: <a href="https://cults3d.com/en/users/Olukelo/3d-models">Olukelo</a> on cults3d</p></figcaption></figure>
 
-| Pros                                        | Cons                           |
-| ------------------------------------------- | ------------------------------ |
-| No drilling required.                       | Belt can slip / skip if loose. |
-| No extra hardware if you have a 3D printer. |                                |
-| Gearing allows for CPR increase.            |                                |
+| Pros                             | Cons                           |
+| -------------------------------- | ------------------------------ |
+| No drilling required.            | Belt can slip / skip if loose. |
+| Gearing allows for CPR increase. |                                |
 
 ***
 
@@ -75,7 +73,7 @@ Now outdated, there are no real benefits from mounting and connecting your encod
 {% endcolumn %}
 {% endcolumns %}
 
-<table><thead><tr><th width="369">Pros</th><th>Cons</th></tr></thead><tbody><tr><td>Clean encoder mount (no protruding belts, gears, etc).</td><td>Bike spoke can loosen and start slipping.</td></tr><tr><td>No 3D printed parts necessarily required (atleast if using the OMRON style encoder).</td><td>Spoke rubs against wires in the motor shaft and requires a cover.</td></tr><tr><td></td><td>Requires drilling into the hard steel shaft which can instead be used for Viih / tig33r mount.</td></tr><tr><td></td><td>Requires a bearing setup to hold the spoke steady for magnetic encoders.</td></tr></tbody></table>
+<table><thead><tr><th width="369">Pros</th><th>Cons</th></tr></thead><tbody><tr><td>Clean encoder mount (no protruding belts, gears, etc).</td><td>Bike spoke can loosen and start slipping.</td></tr><tr><td>No 3D printed parts necessarily required (atleast if using the OMRON style encoder).</td><td>Spoke rubs against wires in the motor shaft and requires a cover to prevent shorts.</td></tr><tr><td></td><td>Requires drilling into the hard steel shaft which can instead be used for Viih / tig33r mount.</td></tr><tr><td></td><td>Requires a bearing setup to hold the spoke steady for magnetic encoders.</td></tr></tbody></table>
 
 ***
 

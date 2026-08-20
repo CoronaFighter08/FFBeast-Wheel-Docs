@@ -8,6 +8,10 @@ coverY: 0
 
 # Power Supply
 
+{% hint style="info" icon="face-smile-halo" %}
+TL;DR: Go for a 24V 20A power supply.
+{% endhint %}
+
 ## PSU Voltage
 
 When choosing your PSU voltage, you're mainly restricted by your motor's operating voltage and the maximum voltage of your controller, starting from 12V. For FFBeast wheel builds made with hoverboard motors, a 24V PSU is recommended as it's not usually worth the price increase to go up to 36V for a marginal max RPM increase.

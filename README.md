@@ -10,7 +10,7 @@ Welcome! This is a **community-ran** documentation website providing details on 
 
 I encourage you to first check out the [official documentation](https://ffbeast.github.io/) as it will provide the most up-to-date information directly from the developer of this project. This is also the case if you're looking to build the FFB Flight Control project, as information regarding it is not provided here.
 
-If you have any recommendations or want to report any issues with the guide, feel free to ping me in the FFBeast Discord - my username is "CoronaFighter".
+<mark style="color:green;">If you have any recommendations or want to report any issues / misinformation in the guide, feel free to ping me in the FFBeast Discord - my username is "CoronaFighter".</mark>
 
 ### The FFBeast Wheel
 
