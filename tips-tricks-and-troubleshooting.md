@@ -28,7 +28,7 @@ Go ahead, but you'll need to be good at soldering. The USB-C ports on the contro
 
 {% embed url="https://www.printables.com/model/1435932-odrive-mini-usb-c-port-guard-reinforcement-bracket/related" %}
 
-I recommend using this USB-C guard unless you have some other method of strain relief or a separate USB port integrated in your build's enclosure. However, if you have already ripped it off, you'll need to solder a spliced USB cable directly to the pads of your controller. An image below shows where to solder the data lines and ground. <mark style="color:$danger;">DO NOT WIRE THE 5V+ WIRE.</mark>
+I recommend using this USB-C guard unless you have some other method of strain relief or a separate USB port integrated in your build's enclosure. However, if you have already ripped it off, you'll need to solder a spliced USB cable directly to the pads of your controller. An image below shows where to solder the data lines and ground. <mark style="color:$danger;">DO NOT CONNECT THE 5V+ WIRE.</mark>
 
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
