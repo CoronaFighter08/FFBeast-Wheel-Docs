@@ -26,7 +26,7 @@ Set motion range to 90 degrees to make checking softstops easier later. Static d
 
 Ensure all checkboxes at the top are unticked, especially the one labelled "Enable forces". Your P and I gains should be at their defaults of 10 and 100 respectively. Don't touch them unless you know what you're doing - they are best left at the default. Calibration magnitute should be at 5% with its speed at 100%. These usually don't have to be changed either.
 
-Set your power limit to 5-10% for now for testing.
+Set your power limit to 10-15% for now for testing.
 
 
 {% endstep %}

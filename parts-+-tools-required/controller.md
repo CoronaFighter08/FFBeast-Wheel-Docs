@@ -3,6 +3,28 @@ cover:
   light: ../.gitbook/assets/controller_cover.png
   dark: ../.gitbook/assets/controller_dark.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Controller
@@ -17,7 +39,7 @@ This guide is centered around the ODESC V4.2 Design due to its popularity (almos
 
 The [Makerbase XDrive MINI](https://makerbase3d.com/product/makerbase-xdrive-mini-high-precision-brushless-servo-motor-controller-based-on-odrive3-6-with-as5047p-on-board/) is an ODrive 3.6 board which has a similar design. It has been successfully used in multiple builds.\
 \
-The no-name clone boards from Aliexpress and similar sites _should_ also work, however the risk of receiving faulty components will be increased. The final decision is up to you ;)
+The no-name clone boards (ODESC 4.2 and such) from Aliexpress and similar sites _should_ also work, however the risk of receiving faulty components will be increased. The final decision is up to you ;)
 
 You are, of course, free to use other ODrive 3.6 controller boards. Make sure to check the official docs for the official compatibility list before doing so.
 

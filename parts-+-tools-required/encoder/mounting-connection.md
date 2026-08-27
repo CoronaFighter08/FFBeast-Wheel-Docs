@@ -67,9 +67,7 @@ Belt drive is commonly used by those with OMRON style encoders as it allows for 
 {% endcolumn %}
 
 {% column %}
-Superseded by the belt drive and Viih mount, this method uses a bike spoke attached to the motor's front housing running through a hole in the motor shaft to the back, before connecting to the encoder. An OMRON style encoder needs a simple connector while a magnetic encoder requires a bearing to hold the magnet at the end of the shaft steady to remove wobble.
-
-Now outdated, there are no real benefits from mounting and connecting your encoder this way, and the effort required can instead be used to prepare a Viih mount or belt drive system.
+Superseded by magnetic encoder mounts, this method uses a bike spoke attached to the motor's front housing running through a hole in the motor shaft to the back, before connecting to the encoder. An OMRON style encoder needs a simple connector while a magnetic encoder requires a bearing to hold the magnet at the end of the shaft steady to remove wobble.
 {% endcolumn %}
 {% endcolumns %}
 
