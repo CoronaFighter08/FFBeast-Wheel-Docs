@@ -8,7 +8,7 @@ Almost all the issues I've seen in the Discord server are related to the encoder
 
 Check your mounting method to make sure the motor's shaft is tightly secured and can't slip - use a marker to mark a point on the shaft and see if it moves while you play. If you're using belts or gears, ensure they aren't slipping or skipping. CHECK YOUR CPR!!! There have been cases of magnetic encoders having different PPR values than the one listed in the product description.
 
-If you're using an ODESC 4.2 board with rotary encoders, you might have to add pullups and remove capacitors. Join the Discord and use the search feature to look for the guide.. I'm too lazy to link it here.
+If you're using an ODESC 4.2 board with rotary encoders, you might have to add pullups and remove capacitors. Join the Discord and use the search feature to look for the guide.
 
 Your wheel shutting down while you're fighting the FFB is a sign of an underpowered PSU. If it shuts down during fast movements, it's a sign of the braking resistor value being too low.
 
@@ -52,4 +52,4 @@ Just be careful while drilling holes in the front as that's also where you mount
 
 ## Power Supply
 
-24V 20A, take it or leave it.
+24V 20A is the sweet spot and what everyone uses (and yes, it's fine for drifting as well). Higher voltage will increase the RPM too much, and lower voltage results in a sluggish feeling wheel.
